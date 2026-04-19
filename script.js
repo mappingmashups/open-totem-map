@@ -12,23 +12,122 @@ map.on('style.load', () => {
     });
 });
 
-map.on('load', () => {
-    // Add the US states source and a light outline layer
-    map.addSource('totempoles', {
-        type: 'geojson',
-        data: './data.geojson'
-    });
+function isTotemPoleArtwork(properties) {
+    return String(properties.artwork_type || '').toLowerCase() === 'totem_pole';
+}
 
-    map.addLayer({
-        id: 'totempoles',
-        type: 'circle',
-        source: 'totempoles',
-        paint: {
-            'circle-color': '#ff0099',
-            'circle-radius': 4,
-            'circle-opacity': 0.2,
-        }
-    });
+function isOtherTotemPole(properties) {
+    return ['sculpture_type', 'man_made', 'monument', 'culture'].some(
+        (key) => String(properties[key] || '').toLowerCase() === 'totem_pole'
+    );
+}
+
+function createFeatureCollection(features) {
+    return {
+        type: 'FeatureCollection',
+        features,
+    };
+}
+
+map.on('load', () => {
+    fetch('./data.geojson')
+        .then((response) => response.json())
+        .then((data) => {
+            map.addSource('totempoles-background-circles', {
+                type: 'geojson',
+                data: data,
+            });
+
+            map.addLayer({
+                id: 'totempoles-background-rings',
+                type: 'circle',
+                source: 'totempoles-background-circles',
+                paint: {
+                    'circle-color': '#cccccc',
+                    'circle-stroke-color': 'black',
+                    'circle-stroke-width': 1,
+                    'circle-radius': 4,
+                },
+            });
+
+            map.addLayer({
+                id: 'totempoles-background-fill',
+                type: 'circle',
+                source: 'totempoles-background-circles',
+                paint: {
+                    'circle-color': '#cccccc',
+                    'circle-radius': 4,
+                },
+            });
+
+
+            const group1 = [];
+            const group2 = [];
+            const group3 = [];
+
+            (data.features || []).forEach((feature) => {
+                const properties = feature.properties || {};
+
+                if (isTotemPoleArtwork(properties)) {
+                    group1.push(feature);
+                } else if (isOtherTotemPole(properties)) {
+                    group2.push(feature);
+                } else {
+                    group3.push(feature);
+                }
+            });
+
+            map.addSource('totempoles-group-3', {
+                type: 'geojson',
+                data: createFeatureCollection(group3),
+            });
+
+            map.addSource('totempoles-group-2', {
+                type: 'geojson',
+                data: createFeatureCollection(group2),
+            });
+
+            map.addSource('totempoles-group-1', {
+                type: 'geojson',
+                data: createFeatureCollection(group1),
+            });
+
+            map.addLayer({
+                id: 'totempoles-group-3',
+                type: 'circle',
+                source: 'totempoles-group-3',
+                paint: {
+                    'circle-color': '#eeeeee',
+                    'circle-radius': 4,
+                    //'circle-opacity': 0.3,
+                },
+            });
+
+            map.addLayer({
+                id: 'totempoles-group-2',
+                type: 'circle',
+                source: 'totempoles-group-2',
+                paint: {
+                    'circle-color': '#ecbc75',
+                    'circle-radius': 4,
+                    //'circle-opacity': 0.3,
+                },
+            });
+
+            map.addLayer({
+                id: 'totempoles-group-1',
+                type: 'circle',
+                source: 'totempoles-group-1',
+                paint: {
+                    'circle-color': '#2ecc71',
+                    'circle-radius': 4,
+                    //'circle-opacity': 0.3,
+                },
+            });
+        })
+        .catch((error) => {
+            console.error('Failed to load GeoJSON:', error);
+        });
 });
 
 map.addControl(new maplibregl.NavigationControl());
