@@ -1,4 +1,4 @@
-# Totem Poles Microcosm
+# OpenTotemMap
 
 Forked from https://github.com/watmildon/microcosm by @almccon.
 
