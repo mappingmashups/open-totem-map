@@ -1,31 +1,4 @@
 [out:json][timeout:300]
----
-style:
-  extends: https://tiles.stadiamaps.com/styles/stamen_terrain.json
-  layers:
-    - type: circle
-      paint: &paint
-        circle-color: pink
-        circle-stroke-color: steelblue
-        circle-stroke-width: 2
-        circle-opacity: .5
-    - type: circle
-      filter: [==, [get, artwork_type], totem_pole]
-      paint:
-        <<: *paint
-        circle-color: lightblue
-
----
-
-/*
-NOTE: artwork_type=totem_pole seems to be the growing consensus. This query looks for other possible alternative tags, which will help us find features that need further investigation and retagging.
-
-The style rules above render artwork_type=totem_pole in blue, and everything else in pink.
-
-Other possible values to look for:
-https://taginfo.openstreetmap.org/search?q=%22totem+pole%22#values
-
-*/
 
 (
 
