@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>City of Duncan Totem Pole Collection by duncansightseeing.com</name>
+    <description><![CDATA[The display locations of the City of Duncan's totem pole collection.]]></description>
+    <Style id="icon-503-DB4436-normal">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-503-DB4436-highlight">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-503-DB4436">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-503-DB4436-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-503-DB4436-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Walking Tour of Downtown Duncan Totem Poles</name>
+      <Placemark>
+        <name>Centennial Pole</name>
+        <description><![CDATA[Carved in 2012 by Calvin Hunt to commemorate the City of Duncan's 100th anniversary]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.706795,48.7776653,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kwagu'l Bear Holding A Seal]]></name>
+        <description><![CDATA[Kwagu'l Bear Holding A Seal was carved in 1987 by Richard Hunt. It is displayed on Canada Avenue at Station Street outside the Cowichan Valley Museum, along with Friendship Pole, Owl Pole  and Transformation In Life.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7068406,48.7777696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Owl Pole</name>
+        <description><![CDATA[Owl Pole was carved in 1987 by Francis Horne Sr. It is displayed on Canada Avenue at Station Street outside the Cowichan Valley Museum, along with Friendship Pole, Kwagu'l Bear Holding A Seal and Transformation In Life.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7068111,48.7777979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Friendship Pole</name>
+        <description><![CDATA[Friendship Pole was carved in 1987 by Cicero August. It is displayed on Canada Avenue at Station Street outside the Cowichan Valley Museum, along with Kwagu'l Bear Holding A Seal, Owl Pole and Transformation In Life.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7068486,48.7778544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Transformation In Life</name>
+        <description><![CDATA[Transformation In Life was carved in 1987 by Harvey Alphonse and Nelson Canute. It is displayed on Canada Avenue at Station Street outside the Cowichan Valley Museum, along with Friendship Pole, Owl Pole and Kwagu'l Bear Holding A Seal.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7068862,48.7778703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Raven Stealing The Sun</name>
+        <description>Raven Stealing the Sun was carved in 1990 by Donald Smith and is displayed at the south west corner of Station Street and Canada Avenue</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7070337,48.7776777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bringing Light To The World</name>
+        <description>Bringing Light To The World was carved in 1994 by Richard Krentz and is displayed outside the Judy Hill Gallery at 22 Station Street</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7071651,48.7776812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wind Spirit</name>
+        <description>Wind Spirit was carved in 1986 by Doug LaFortune and is displayed outside 48 Station Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7076077,48.7776777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Transition</name>
+        <description>Transition was carved in 1989 by David Marston and is displayed outside 47 Station Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7076211,48.7777484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Thunderbird With Dzunuk'wa]]></name>
+        <description><![CDATA[Thunderbird With Dzunuk'wa was carved in 1990 by Ned Matilpi and is displayed in a small park at the northeast corner of Station Street and Craig Street.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7079751,48.7778032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Harvest Time</name>
+        <description>Harvest Time was carved in 1986 by Tom LaFortune and is displayed outside the CIBC  branch at 116 Station Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7084714,48.7776565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Air And The Land</name>
+        <description>Air And the Land was carved in 1986 by Harold Joe. It is displayed on the south side of Station Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7091258,48.77766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Owl Spirit</name>
+        <description>Owl Spirit was carved in 1986 by Tom LaFortune and is displayed outside 131 Station Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7091312,48.7777431,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abolishment Pole</name>
+        <description>Abolishment Pole was carved in 1990 by Donald Smith</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7096837,48.7777254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sea and Sky</name>
+        <description>Sea and Sky was carved in 1990 by Harold Alfred and is displayed at the intersection of Station Street and Government Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7098661,48.7776724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagle Raven Bear</name>
+        <description>Eagle Raven Bear is usually displayed on Government Street at Station Street outside the Valley Seniors Center. It is currently undergoing restoration and has been removed from public display.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7100539,48.7775133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gwa'yasdams Flood Story]]></name>
+        <description><![CDATA[Gwa'yasdams Flood Story was carved in 1988 by Basil Jones and is displayed outside the valley Seniors Center at 198 Government Street]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7104669,48.7775239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cedar Man Walking Out Of The Log</name>
+        <description>Cedar Man Walking Out Of The Log was carved in 1988 by Richard Hunt. It is displayed at the intersection of Government Street and Jubilee Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7106842,48.7776441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peaceful Boundaries</name>
+        <description>Peaceful Boundaries was carved in 1988 by Norman John and is displayed outside the B.C. Provincial Courthouse.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7107512,48.7773666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pole of Wealth</name>
+        <description>Pole of Wealth was carved in 1988 by Norman John. It is usually displayed at the intersection of Government Street and E.J. Hughes Place but is currently undergoing restoration and has been removed from public display.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7111777,48.7778738,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cedar Woman And Man</name>
+        <description>Cedar Woman And Man was carved in 1988 by Simon Charlie. It is displayed in a small green space at the intersection of Government Street and E.J. Hughes Place.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7112367,48.777835,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Guardians</name>
+        <description><![CDATA[The Guardians was carved in 1986 by Francis Horne Sr. It is displayed with Chief's Pole and Dzunuk'wa at the intersection of Government Street and Kenneth Street.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7118778,48.7784784,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Dzunuk'wa]]></name>
+        <description><![CDATA[Dzunuk'wa was carved in 1989 by Oscar Matilpi. It is displayed with Chief's Pole and The Guardians at the intersection of Government Street and Kenneth Street.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7118536,48.7785402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Chief's Pole]]></name>
+        <description><![CDATA[Chief's Pole was carved in 1986 by Francis Horne Sr. It is displayed with The Guardians and Dzunuk'wa at the intersection of Government Street and Kenneth Street.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7117919,48.7785385,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Family</name>
+        <description>The Family was carved in 1993 by Francis Horne Sr. It is displayed outside the Corner House Cafe at the intersection of Kenneth Street and Jubilee Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7105876,48.7784465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Family Pole</name>
+        <description>Family Pole was carved in 1986 by Doug LaFortune. It is displayed outside the Sassy Lion Thrift Store at 164 Kenneth Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7095255,48.7784483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tzinquaw Story</name>
+        <description><![CDATA[Tzinquaw Story was carved in 1986 by Harvey Alphonse and Kelly Antoine. It is displayed on Kenneth Street near Bucky's Sport Shop (171 Craig Street).]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7090668,48.7784501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mother and Child</name>
+        <description><![CDATA[Mother and Child was carved in 1991 by local artist Glen Spicer. It is displayed in City Square outside the Adelborg Building at 161 & 169 Craig Street.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7083775,48.7789432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eagle Pole</name>
+        <description>Eagle Pole was the first totem pole commissioned for the City of Duncan collection. It was carved in 1986 by Francis Horne Sr. It is displayed in Lois Lane near Canada Avenue.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7076452,48.7789238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PouPou Tane Hiira Pou Karanga</name>
+        <description><![CDATA[PouPou Tane Hiira Pou Karanga was carved in 1986 by New Zealand carver Tupari TeWhata as part of an exchange with Duncan's sister city of Kaihoke, New Zealand.  It is displayed on Kenneth Street near Nha Trang Maki Sushi at 62 Kenneth Street.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7077498,48.7784625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Feast</name>
+        <description>The Feast was carved in 1986 by Doug LaFortune. It is usually displayed on Canada Avenue near the Cowichan Valley Museum but is currently undergoing maintenance and has been removed from public display.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7069935,48.7783087,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Raven's Gift]]></name>
+        <description><![CDATA[Raven's Gift was carved in 1987 by Doug LaFortune. It is displayed on Canada Avenue next to the Cowichan Valley Museum along with The Feast, Pole of Wealth and Transformation..]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.706964,48.778291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pole of Wealth</name>
+        <description><![CDATA[Pole of Wealth was carved in 1988 by Simon Charlie. It is displayed on Canada Avenue near the Cowichan Valley Museum along with The Feast, Raven's Gift and Transformation.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7069318,48.7782627,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Transformation</name>
+        <description><![CDATA[Transformation was carved in 1988 by Corky Baines. It is displayed on Canada Avenue near the Cowichan Valley Museum along with The Feast, Raven's Gift and Pole of Wealth.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7069049,48.7782468,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mortuary Pole</name>
+        <description>The Mortuary Pole was carved by Simon Charlie and is a new addition to the City of Duncan collection. It is displayed on the main floor of Duncan City Hall and is only accessible for viewing during regular City Hall business hours.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.708171,48.77877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Fille des Dunes</name>
+        <description><![CDATA[La Fille des Dunes was carved in 1988 by Quebec carver Claude Tardif as part of an exchange with Duncan's sister city of Montmagny, Quebec. It is displayed on 1st Street at the entrance to Centennial Park. ]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7121058,48.7809493,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rick Hansen Man In Motion</name>
+        <description><![CDATA[Rick Hansen Man In Motion was carved in 1988 by Corky Baines to commemorate Rick Hansen's Man in Motion round the world tour for spinal cord research. It is displayed in Centennial Park.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7137687,48.7816704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Provincial Route of the Totems Salish Bear</name>
+        <description>The Provincial Route of the Totems Salish Bear was carved by Simon Charlie. It is displayed inside the Vancouver Island Public Library, Cowichan Branch at 2687 James Street.</description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7039438,48.7829676,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Fisherman's Pole]]></name>
+        <description><![CDATA[The Fisherman's Pole was carved in 1990 by Don Smith. It is displayed at the intersection of Government Street and College Street. Cowichan Valley Museum along with The Feast, Raven's Gift and Transformation.]]></description>
+        <styleUrl>#icon-503-DB4436</styleUrl>
+        <Point>
+          <coordinates>
+            -123.7182051,48.7855761,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Untitled layer</name>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,889 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.114939,
+          49.293058
+        ]
+      },
+      "properties": {
+        "title": "Bill Reid Gallery",
+        "discovertotems_link": "http://www.discovertotems.com/BillReidGallery",
+        "category": "Art & Culture",
+        "GPS_in_degrees_pair": "+49\u00b0 17' 35.01\", -123\u00b0 6' 53.78\"",
+        "GPS_in_scientific_pair": "49.293058, -123.114939",
+        "carvers": "Multiple",
+        "description": "The Bill Reid Gallery of Northwest Coast Art opened in May 2008 in downtown Vancouver. This public art gallery is named after Bill Reid (1920 \u2013 1998), the acclaimed Haida master goldsmith, carver, sculptor, writer, spokesman and one of Canada\u2019s greatest artists. The Gallery is devoted to understanding and appreciating contemporary Aboriginal art of the Northwest Coast Art.",
+        "related_link": "http://www.billreidgallery.ca",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/BillReidGallery.jpg",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.122499,
+          49.27348
+        ]
+      },
+      "properties": {
+        "title": "Talking Stick Festival",
+        "discovertotems_link": "http://www.discovertotems.com/TalkingStick2010",
+        "category": "Entertainment",
+        "GPS_in_degrees_pair": "+49\u00b0 16' 24.53\", -123\u00b0 7' 21.00\"",
+        "GPS_in_scientific_pair": "49.27348, -123.122499",
+        "carvers": "NA",
+        "description": "Full Circle First Nations Performance is very excited to present the 9th Annual Talking Stick Festival from February 21 - 28, 2010. This vibrant citywide festival provides a stage for extraordinary Aboriginal artists; established and emerging, national and international, performing live music, dance, theatre, multi-media, storytelling and performance art. The festival, co-presented by the Vancouver 2010 Cultural Olympiad, is thrilled to be able to introduce the Aboriginal culture and arts to the many visitors here during the Olympics.\n\nThe festival will have performances taking place in the Roundhouse Community Arts and Recreation Centre, located across from the Olympic Live Site, and the Britannia Centre.",
+        "related_link": "http://fullcircleperformance.ca/content.asp?chapterID=2&subchapterID=71&pageID=186",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/TSF%202010%20poster_0.jpg",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "event start date": "2/21/2010",
+        "event end date": "2/28/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.128591,
+          49.278717
+        ]
+      },
+      "properties": {
+        "title": "Darryl's Coffee and Native Art Shop",
+        "discovertotems_link": "http://www.discovertotems.com/DarrylsCoffee",
+        "category": "Food",
+        "GPS_in_degrees_pair": "+49\u00b0 16' 43.38\", -123\u00b0 7' 42.93\"",
+        "GPS_in_scientific_pair": "49.278717, -123.128591",
+        "carvers": "NA",
+        "description": "Darryl's Coffee and Native Art Shop (945 Davie Street), which frequently serves oven-baked bannock, is a great small shop with exceptional deals on guaranteed genuine Native Art. Darryl deals directly with the artists and returns a greater portion of the profits to them than most galleries. And most items are priced much lower than the average gallery or shop.",
+        "related_link": "NA",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/Darryls.PNG",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.946941,
+          50.11812
+        ]
+      },
+      "properties": {
+        "title": "Squamish Lil\u2019wat Cultural Centre",
+        "discovertotems_link": "http://www.discovertotems.com/SquamishLilwatCulturalCentre",
+        "category": "Architecture & Buildings",
+        "GPS_in_degrees_pair": "+50\u00b0 7' 5.23",
+        "GPS_in_scientific_pair": "50.11812, -122.946941",
+        "carvers": "NA",
+        "description": "Squamish Lil\u2019wat Cultural Centre is a showcase for the cultures of the two First nations whose traditional territories overlap in the Callaghan Valley, where the resort municipality of Whistler now stands.",
+        "related_link": "http://www.slcc.ca/",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/SquamishCenter.jpg",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.099169,
+          49.266569
+        ]
+      },
+      "properties": {
+        "title": "Native Education College (NEC)",
+        "discovertotems_link": "http://www.discovertotems.com/nec",
+        "category": "College & Education",
+        "GPS_in_degrees_pair": "+49\u00b0 15' 59.65\", -123\u00b0 5' 57.01\"",
+        "GPS_in_scientific_pair": "49.266569, -123.099169",
+        "carvers": "NA",
+        "description": "BC's largest private Aboriginal College. Within available resources, NEC provides a culturally appropriate and supportive learning environment for Aboriginal learners. NEC offers a variety of programs and services to Aboriginal learners throughout the province who attend the Longhouse located in the Mount Pleasant area of Vancouver. NEC also works with Aboriginal organizations to deliver programs in other locations throughout British Columbia. NEC focuses on meeting the needs of Aboriginal adult students requiring developmental, vocational, and applied academic programs that provide access to employment or further post-secondary education. The faculty and staff strive to combine academic excellence with a strong commitment to the best practices of Aboriginal adult education. 285 East 5th Avenue, Vancouver, BC V5T 1H2 (604) 873-3761",
+        "related_link": "http://www.necvancouver.org",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/the%20centre.preview.JPG",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.035556,
+          49.331111
+        ]
+      },
+      "properties": {
+        "title": "Whey-Ah-Whichen (Cates Park)",
+        "discovertotems_link": "http://www.discovertotems.com/CatesPark",
+        "category": "Parks & Nature",
+        "GPS_in_degrees_pair": "49\u00b018.112'N 122\u00b057.308'W",
+        "GPS_in_scientific_pair": "49.331111,-123.035556",
+        "carvers": "NA",
+        "description": "Whey-Ah-Whichen is the Tsleil-Waututh name for this place which defines Indian Arm from Burrard Inlet. The Squamish know it as Atsen\u00e1ch. The point was named after Lieutenant Rocke of HMS Satellite, which patrolled the Northwest Coast in the 1850s.\nCates Park was dedicated in 1950 in memory of Charles H Cates, founder of the Cates Towing Company, and was developed during the following decade.",
+        "related_link": "http://www.deepcovebc.com/parkscatespark.html",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/cates%20park%20totem%20pole%20top%20angle%201.preview.JPG",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.105238,
+          49.283698
+        ]
+      },
+      "properties": {
+        "title": "Spirit Wrestler Gallery",
+        "discovertotems_link": "http://www.discovertotems.com/SpiritWrestlerGallery",
+        "category": "Shopping & Services",
+        "GPS_in_degrees_pair": "+49\u00b0 17' 1.31\", -123\u00b0 6' 18.86\"",
+        "GPS_in_scientific_pair": "49.283698, -123.105238",
+        "carvers": "NA",
+        "related_link": "http://www.spiritwrestler.com",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/gallery-2008-03-06a_MED.jpg",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.771529,
+          49.495427
+        ]
+      },
+      "properties": {
+        "title": "Talaysay Tours",
+        "discovertotems_link": "http://www.discovertotems.com/TalaysayTours",
+        "category": "Travel & Lodging",
+        "GPS_in_degrees_pair": "+49\u00b0 29' 43.54\", -123\u00b0 46' 17.50\"",
+        "GPS_in_scientific_pair": "49.495427, -123.771529",
+        "carvers": "NA",
+        "description": "Sechelt (shish\u00e1lh) First Nations owned and operated cultural interpretative tour company, (with a emphasis on education in First Nations history, arts, ecological practices, outdoor adventure and safety).  Talaysay Tours provides guided kayak tours, lessons, rentals, nature walks, museum tours, community-totem pole walks, longhouse tours, events, carving demonstrations, and drumming and singing.",
+        "related_link": "http://talaysay.com/",
+        "picture_link": "Talaysay Tours http://www.discovertotems.com/sites/discovertotems.com/files/images/kayaks.jpg",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.099169,
+          49.266569
+        ]
+      },
+      "properties": {
+        "title": "Wil Sayt Bakwhlgat & Longhouse (NEC)",
+        "discovertotems_link": "http://www.discovertotems.com/WilSaytBakwhlgat",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "#ERROR!",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/5thMain",
+        "GPS_in_scientific_pair": "49.266569, -123.099169",
+        "carvers": "unknown",
+        "description": "Wil Sayt Bakwhlgat is the name of the pole that stands at the front of the NEC Native Education College longhouse in Vancouver. It is a Nisga'a phrase meaning, \"the place where people gather.\" The pole was carved by Norman Tait, a Nisga'a artist. He carved the pole to show a story that was given to him by Hattie Ferguson, a Tshimshian woman from Kitkatla. A plaque at the NEC Native Education College says, \"This pole is dedicated to all Indian people who have gone on before, to those who currently struggle for our survival and the generations yet unborn.\"",
+        "related_link": "http://www.necvancouver.org/longhouse",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/top%20of%20totem%205th%20and%20Main.preview.JPG",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.099169,
+          49.266569
+        ]
+      },
+      "properties": {
+        "title": "Burrard Bridge",
+        "discovertotems_link": "http://www.discovertotems.com/node/154",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 16' 25.62\", -123\u00b0 8' 23.04\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/node/154",
+        "GPS_in_scientific_pair": "49.266569, -123.099169",
+        "carvers": "unknown",
+        "description": "This is the pole that for at least a year, sat unfinished behind the Maritime Museum in a woodshed, see unfinished totem gallery for pictures of this one as a work in progress. I had thought it would be raised on the Museum grounds and for awhile there was signs posted to that effect. How it ended up being raised almost under the Burrard Bridge adjacent to \"Cultural Harmony Park\" is a mystery to me. As well, it still looks quite unfinished and has some carvings that (loon images) that don't quite fit with traditional pole carvings.",
+        "picture_link": "Unable to create scaled Thumbnail image",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113692,
+          49.287894
+        ]
+      },
+      "properties": {
+        "title": "Canada Place",
+        "discovertotems_link": "http://www.discovertotems.com/book1/CanadaPlace",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 17' 16.42",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/CanadaPlace",
+        "GPS_in_scientific_pair": "49.287894, -123.113692",
+        "carvers": "unknown",
+        "description": "no info",
+        "picture_link": "no picture displayed",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.114486,
+          49.26505
+        ]
+      },
+      "properties": {
+        "title": "Canadian Tire on Cambie",
+        "discovertotems_link": "http://www.discovertotems.com/book1/CanadianTire",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 15' 54.18\", -123\u00b0 6' 52.15\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/CanadianTire",
+        "GPS_in_scientific_pair": "49.265050, -123.114486",
+        "carvers": "unknown",
+        "description": "TBD",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.112897,
+          49.343708
+        ]
+      },
+      "properties": {
+        "title": "Capilano Suspension Bridge",
+        "discovertotems_link": "http://www.discovertotems.com/book1/CapilanoSuspensionBridge",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 20' 37.35\", -123\u00b0 6' 46.43\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/CapilanoSuspensionBridge",
+        "GPS_in_scientific_pair": "49.343708, -123.112897",
+        "carvers": "unknown",
+        "description": "TBD",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.955133,
+          49.301867
+        ]
+      },
+      "properties": {
+        "title": "Cates Park, Deep Cove",
+        "discovertotems_link": "http://www.discovertotems.com/CatesPark",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 18' 6.72\", -122\u00b0 57' 18.48\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/bool1/CatesPark",
+        "GPS_in_scientific_pair": "49.301867, -122.955133",
+        "carvers": "unknown",
+        "description": "TBD",
+        "picture_link": "http://www.discovertotems.com/node/42",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.272981,
+          49.37395
+        ]
+      },
+      "properties": {
+        "title": "Horseshoe Bay Ferry Terminal",
+        "discovertotems_link": "http://www.discovertotems.com/book1/HorseshoeBayFerryTerminal",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 22' 26.22\", -123\u00b0 16' 22.73\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/HorseshoeBayFerryTerminal",
+        "GPS_in_scientific_pair": "49.373950, -123.272981",
+        "carvers": "unknown",
+        "description": "Kwakiutl Bear Pole",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.275267,
+          49.375106
+        ]
+      },
+      "properties": {
+        "title": "Horseshoe Bay Park",
+        "discovertotems_link": "http://www.discovertotems.com/book1/HorseshoeBayPark",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 22' 30.38\", -123\u00b0 16' 30.96\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/HorseshoeBayPark",
+        "GPS_in_scientific_pair": "49.375106, -123.275267",
+        "carvers": "unknown",
+        "description": "TBD",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.095836,
+          49.249625
+        ]
+      },
+      "properties": {
+        "title": "Jomar Lanot Memorial Pole",
+        "discovertotems_link": "http://www.discovertotems.com/node/257",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 14' 58.65\", -123\u00b0 5' 45.01\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/node/257\">Jomar Lanot Memorial Pole",
+        "GPS_in_scientific_pair": "49.249625, -123.095836",
+        "carvers": "Martin Sparrow (Musqeaum First Nation) , Joe Bolton (Tsimshian)",
+        "description": "This pole was raised on June 13th, 2007 in memory of Jomar Lanot, a teen-ager beaten to death after fleeing a group of youths who challenged one of his friends to a fight, then racially taunted them. The Filipino teen was walking home on Nov. 28, 2003, with three friends after playing basketball when they were confronted by 11 to 15 youths outside Sir Charles Tupper Secondary School in Vancouver.",
+        "related_link": "http://www.familiesagainstcrime.org/memorial/jomarl.html",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/jomarlanotpoleAtTupper.jpg",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.260689,
+          49.269339
+        ]
+      },
+      "properties": {
+        "title": "Museum of Anthropology at UBC*",
+        "discovertotems_link": "http://www.discovertotems.com/book1/MuseumAnthropologyUBC",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 16' 9.62\", -123\u00b0 15' 38.48\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/MuseumAnthropologyUBC",
+        "GPS_in_scientific_pair": "49.269339, -123.260689",
+        "carvers": "Multiple",
+        "description": "The Museum of Anthropology building was designed by renowned Canadian architect Arthur Erickson, who based his award-winning design on traditional northern Northwest Coast post and beam structures. The original facility opened in 1976, and in 1990 a new wing was added, including a resource library, teaching laboratory, office, and exhibition gallery featuring 600 European ceramic pieces collected and donated by the late Dr. Walter Koerner. The total area of the original building and the Ceramics wing included 58,833 sq. feet of usable space: 16,092 sq. feet for academic functions (classrooms, labs, archival storage, and offices), and 38,889 sq. feet available to the public (exhibition and performance spaces, Visible Storage galleries, shop, and rental facilities).",
+        "related_link": "http://www.moa.ubc.ca/",
+        "geocache_link": "http://www.geocaching.com/seek/cache_details.aspx?guid=12fa969e-1cd9-4be8-beab-5a66d34fbd6a",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.094147,
+          49.282361
+        ]
+      },
+      "properties": {
+        "title": "Oppenheimer Park",
+        "discovertotems_link": "http://www.discovertotems.com/node/184",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 16' 56.50\", -123\u00b0 5' 38.93\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/node/184",
+        "GPS_in_scientific_pair": "49.282361, -123.094147",
+        "carvers": "unknown",
+        "description": "Memorial pole",
+        "picture_link": "http://www.discovertotems.com/system/files/images/DSC04813.preview.JPG",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.120892,
+          49.278572
+        ]
+      },
+      "properties": {
+        "title": "Seymour Street",
+        "discovertotems_link": "http://www.discovertotems.com/book1/SeymourStreet",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 16' 42.86\", -123\u00b0 7' 15.21\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/SeymourStreet",
+        "GPS_in_scientific_pair": "49.278572, -123.120892",
+        "carvers": "Bill Reid",
+        "description": "Haida Eagle and Frog Totem on Seymour Street",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1262,
+          49.319883
+        ]
+      },
+      "properties": {
+        "title": "Squamish Nation, North Vancouver",
+        "discovertotems_link": "http://www.discovertotems.com/book1/SquamishNation",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 19' 11.58\", -123\u00b0 7' 34.32\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/SquamishNation",
+        "GPS_in_scientific_pair": "49.319883, -123.126200",
+        "carvers": "unknown",
+        "description": "Squamish Nation Totem Poles",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.121044,
+          49.299353
+        ]
+      },
+      "properties": {
+        "title": "Stanley Park",
+        "discovertotems_link": "http://www.discovertotems.com/book1/StanleyPark",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 17' 57.67\", -123\u00b0 7' 15.76\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/StanleyPark",
+        "GPS_in_scientific_pair": "49.299353, -123.121044",
+        "carvers": "unknown",
+        "description": "TBD",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.267,
+          49.35835
+        ]
+      },
+      "properties": {
+        "title": "Thunderbird Marina",
+        "discovertotems_link": "http://www.discovertotems.com/book1/ThunderbirdMarina",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 21' 30.06\", -123\u00b0 16' 1.20\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/ThunderbirdMarina",
+        "GPS_in_scientific_pair": "49.358350, -123.267000",
+        "carvers": "unknown",
+        "description": "TBD",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.252483,
+          49.268483
+        ]
+      },
+      "properties": {
+        "title": "Thunderbird Totem Pole",
+        "discovertotems_link": "http://www.discovertotems.com/node/212",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 16' 6.54\", -123\u00b0 15' 8.94\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/node/212",
+        "GPS_in_scientific_pair": "49.268483, -123.252483",
+        "carvers": "Ellen Neel",
+        "description": "This totem pole is entitled \"Victory Through Honour\" and was carved by Kwickwasutaineuk artist Ellen Neel. \"The pole tells of the five tests of Tsikumin, chief shaman of the Red Cedar Bark Dance and founder of Qui-Owa Sutinuk, ancestors of the carver. The Red Cedar Bark Dance was performed in Kitsilano Park during Vancouver's Jubilee in 1936.\" -from UBC Archives - Campus Sculptures",
+        "related_link": "http://www.publicaffairs.ubc.ca/media/releases/2004/mr-04-111.html",
+        "picture_link": "http://www.discovertotems.com/node/66",
+        "geocache_link": "http://img.geocaching.com/cache/7ecd9ec8-64e1-47d0-9f8b-fb6bd5acc413.jpg",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113275,
+          49.322797
+        ]
+      },
+      "properties": {
+        "title": "Tomahawk Cafe Totem Poles",
+        "discovertotems_link": "http://www.discovertotems.com/book1/TomahawkCafe",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 19' 22.07\", -123\u00b0 6' 47.79\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/TomahawkCafe",
+        "GPS_in_scientific_pair": "49.322797, -123.113275",
+        "carvers": "no info",
+        "description": "Tomahawk Cafe Totems",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79665,
+          49.01845
+        ]
+      },
+      "properties": {
+        "title": "Totem Plaza, White Rock",
+        "discovertotems_link": "http://www.discovertotems.com/node/192",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 1' 6.42\", -122\u00b0 47' 47.94\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/node/192",
+        "GPS_in_scientific_pair": "49.018450, -122.796650",
+        "carvers": "Robert Davidson",
+        "description": "Two welcome poles",
+        "picture_link": "http://www.discovertotems.com/system/files/images/totempoleplaza.JPG",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.129617,
+          49.23865
+        ]
+      },
+      "properties": {
+        "title": "Van Dusen Gardens",
+        "discovertotems_link": "http://www.discovertotems.com/book1/VanDusen",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 14' 19.14\", -123\u00b0 7' 46.62\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/VanDusen",
+        "GPS_in_scientific_pair": "49.238650, -123.129617",
+        "carvers": "Arthur Sterrit, Earl Muldoe, Brian Muldoe",
+        "description": "Two poles at the entrance of the Van Dusen Gardens.Two poles at the entrance of the Van Dusen Gardens.  The first pole is labeled 'Al of The Gispudwada'. I believe the 'Al' is the word for Black Bear and refers to the Black Bear Crest of the Killerwhale Tribe. This pole was carved by Arthur Sterrit, A Giksan from the Upper Skeena River Area of BC. It incorporates the following figures: Human Form at Top - Man who went into mountains to hunt goat and was captured by a Black Bear and assumed the Bear Form. The Human Head in top figures's stomach - friendly villager who took the bear man in and helped him when no one else would. Bear Figure at Bottom - represents bear man before being turned back into human form. Human head in Bear Stomach - indicates that Bear figure is Bear man. The second pole is labeled \"The Mosquito People\" attributed to the Gitksan tribe and carved by Earl & Brian Muldoe of 'Ksan. The totem pole was raised to commemorate the Vancouver Centennial.",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/van%20dusen%20al%20totem%20pole.preview.JPG",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.176008,
+          49.194433
+        ]
+      },
+      "properties": {
+        "title": "Vancouver Airport",
+        "discovertotems_link": "http://www.discovertotems.com/book1/VancouverAirport",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 11' 39.96\", -123\u00b0 10' 33.63\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/VancouverAirport",
+        "GPS_in_scientific_pair": "49.194433, -123.176008",
+        "carvers": "unknown",
+        "description": "TBD",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.147683,
+          49.2771
+        ]
+      },
+      "properties": {
+        "title": "Vanier Park",
+        "discovertotems_link": "http://www.discovertotems.com/book1/VanierPark",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 16' 37.56\", -123\u00b0 8' 51.66\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/VanierPark",
+        "GPS_in_scientific_pair": "49.277100, -123.147683",
+        "carvers": "Chief Mungo Martin",
+        "description": "Centenntial Totem Pole has a twin in Windsor Great Park, London, England. The pole is an exact replica of one carved for Queen Elizabeth II by Chief Mungo Martin of the Kwakiutl Nation. Each Figure on the Pole represents a mythical ancestorof the ten tribes of the Kwakiutl Nation. This 100 foot high totem pole was dedicated at a ceremony on October 15, 1956 in celebration of British Columbia's centennial year.",
+        "picture_link": "TBD",
+        "geocache_link": "http://www.geocaching.com/seek/cache_details.aspx?guid=165ac569-34dd-44de-b965-f172b02688a9",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.150567,
+          49.322983
+        ]
+      },
+      "properties": {
+        "title": "Welcome Guardian Woman (Squamish)",
+        "discovertotems_link": "http://www.discovertotems.com/node/208",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 19' 22.74\", -123\u00b0 9' 2.04\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/node/208",
+        "GPS_in_scientific_pair": "49.322983, -123.150567",
+        "carvers": "unknown",
+        "description": "This Totem pole is located at West Vancouver's Ambleside Beach and can be seen from the Lions Gate Bridge.",
+        "picture_link": "http://www.discovertotems.com/system/files/images/honda+fit+072.preview.jpg",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.271547,
+          49.35755
+        ]
+      },
+      "properties": {
+        "title": "West Vancouver Yacht Club",
+        "discovertotems_link": "http://www.discovertotems.com/book1/WestVancouverYachtClub",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 21' 27.18\", -123\u00b0 16' 17.57\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/WestVancouverYachtClub",
+        "GPS_in_scientific_pair": "49.357550, -123.271547",
+        "carvers": "unknown",
+        "description": "West Vancouver Yacht Club Totem Pole",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.254083,
+          49.26355
+        ]
+      },
+      "properties": {
+        "title": "Whaler's Pole",
+        "discovertotems_link": "http://www.discovertotems.com/node/183",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 15' 48.78\", -123\u00b0 15' 14.70\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/node/183",
+        "GPS_in_scientific_pair": "49.263550, -123.254083",
+        "carvers": "Art Thompson, Joe David, Duane Pasco, Gene BraBant, Glen Wood",
+        "description": "This one is located on the UBC campus.  Fred and I spotted this pole while he was visiting Vancouver for his summer vacation with us. We are on a quest to locate all the publicly accessible totem poles in the Greater Vancouver area, so if you find any that you think we should know about..please tell us about them!  The Whaler's pole represents the whaling tradition of the nu-cha-nuhlth indian people of the west coast of Vancouver Island. Figures from the top to the bottom are the harpooners, assistant whalers, shaman (with lightening snake tongue representing his power), Puk-Ubs (Whaler returned from drowning), and a grey whale held by Puk-Ubs.  The Whaler's pole was commissioned by the UBC Museum of Anthropoloy and raised at this location in 1984.  The pole was designed and carved by Nu-Cha_Nuhlth Artist Art Thompson in 1981-1982. With assistance from Joe David, Duane Pasco, Gene BraBant and Glen Wood.",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113275,
+          49.322797
+        ]
+      },
+      "properties": {
+        "title": "Tomahawk Cafe Poles",
+        "discovertotems_link": "http://www.discovertotems.com/TomahawkCafePoles",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "+49\u00b0 19' 22.07\", -123\u00b0 6' 47.79\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/TomahawkCafe",
+        "GPS_in_scientific_pair": "49.322797, -123.113275",
+        "carvers": "unknown",
+        "description": "A great collection of masks and carvings inside; collected over the last 40 years by the owner who often traded food for carvings. I'm told that in blueberry season they have the best pie in town.",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.113275,
+          49.322797
+        ]
+      },
+      "properties": {
+        "title": "Tomahawk BBQ Cafe",
+        "discovertotems_link": "http://www.discovertotems.com/node/108",
+        "category": "Food",
+        "GPS_in_degrees_pair": "+49\u00b0 19' 22.07\", -123\u00b0 6' 47.79\"",
+        "discovertotems landing page url": "http://www.discovertotems.com/book1/TomahawkCafe",
+        "GPS_in_scientific_pair": "49.322797, -123.113275",
+        "carvers": "NA",
+        "description": "A great collection of masks and carvings inside; collected over the last 40 years by the owner who often traded food for carvings. I'm told that in blueberry season they have the best pie in town.",
+        "picture_link": "TBD",
+        "geocache_link": "NA",
+        "pubdate": "3/20/2010",
+        "coord_source": "scientific"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.8938889,
+          47.5691667
+        ]
+      },
+      "properties": {
+        "title": "Fall City - Totem #1",
+        "discovertotems_link": "http://www.discovertotems.com/content/fall-city-totem-1",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "47 34'9\"N, 121 53'38\"W",
+        "carvers": "Hugh H. Hinds",
+        "description": "Located in Fall City the original totem stood 43 feet tall created by local artist Hugh H. Hinds who was influenced by the legends and carvings of the Haida tribe. In 1964 the pole was blown down in a severe storm due to rot found at the bottom of the pole. After extensive repair the pole was reserected again until 1981 when further rot was discovered. The pole was taken down a second time. In 1982 Herman Williams of the Tulalip tribe was commissioned to carve a replacement pole following the original story. This pole was erected in the same location and stood 30 feet tall. In 1997 a man named Richard Kirby took on the project of fully restoring the originally pole and with the help of many community members the original pole was put back in it's rightful place where it stands today.",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/IMG_9006enhcdsm.JPG",
+        "pubdate": "7/29/2010",
+        "coord_source": "dms_parsed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9141667,
+          47.6477778
+        ]
+      },
+      "properties": {
+        "title": "Fall City - Totem #2",
+        "discovertotems_link": "http://www.discovertotems.com/content/fall-city-totem-2",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "47 38'52\"N 121 54'51\"W",
+        "carvers": "unknown",
+        "description": "Very little is known of this totem",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/pole%202%20sized.JPG",
+        "pubdate": "7/29/2010",
+        "coord_source": "dms_parsed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6505556,
+          45.5591667
+        ]
+      },
+      "properties": {
+        "title": "Portland Concrete Totem",
+        "discovertotems_link": "http://www.discovertotems.com/content/portland-concrete-totem",
+        "category": "Totem Pole",
+        "GPS_in_degrees_pair": "45 33'33\"N 122 39'2\"W",
+        "carvers": "Roslyn Hill and Lillian Pitt",
+        "description": "This collaboration between Native American and Native African American artists represents the work of two distinctly different artists.\u00a0 The non-traditional totem is located in Portland Oregon near NE Alberta St and NE 14th.",
+        "related_link": "http://www.lillianpitt.com/",
+        "picture_link": "http://www.discovertotems.com/sites/discovertotems.com/files/images/portland%20concrete%20totem.JPG",
+        "pubdate": "7/29/2010",
+        "coord_source": "dms_parsed"
+      }
+    }
+  ]
+}
