@@ -4390,6 +4390,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          1.5876818,
+          42.5689899
+        ]
+      },
+      "properties": {
+        "artist_name": "Jorge Dubon",
+        "artwork_type": "totem_pole",
+        "name": "Estructures Autogeneradores",
+        "tourism": "artwork",
+        "@id": "node/9208010527",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           1.5878503,
           42.5689957
         ]
