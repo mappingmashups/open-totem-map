@@ -6132,7 +6132,15 @@
         ]
       },
       "properties": {
+        "artist_name": "Jamie Jeffries",
         "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "Eagle, orca, and wolf pole representing lineage; single freestanding pole at museum entrance.",
+        "ethnicity": "shíshálh",
+        "monumental_art_type": "commemorative_pole",
+        "name": "Totem at Raven’s Cry Theatre",
+        "purpose": "commemorative",
+        "subject": "indigenous",
         "tourism": "artwork",
         "@id": "node/12101432322",
         "@type": "node"
@@ -6148,7 +6156,16 @@
         ]
       },
       "properties": {
+        "artist_name": "Ɂantuni Tony Paul",
         "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "Carving 'Tears into Dreams of Reconciliation' totem representing the unity of the stutula (family) clans of the shíshálh Nation. Features animal and spirit clan symbols: ch’askin (Double‑Headed Eagle – Nation United), mayukw (Bear People), weewkw’nach’em",
+        "ethnicity": "shíshálh",
+        "monumental_art_type": "commemorative_pole",
+        "name": "Tears into Dreams of Reconciliation Totem",
+        "purpose": "ceremonial",
+        "source": "Ɂantuni Tony Paul",
+        "subject": "indigenous",
         "tourism": "artwork",
         "@id": "node/12101442650",
         "@type": "node"
@@ -6180,8 +6197,20 @@
         ]
       },
       "properties": {
+        "artist_name": "Bradley Hunt",
         "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "Eagle (school crest), teacher, and child—symbol of knowledge transmission.",
+        "ethnicity": "shíshálh",
+        "latitude": "49.47254° N",
+        "longitude": "123.76398° W",
+        "monumental_art_type": "commemorative_pole",
+        "name": "Totem at Sechelt Elementary School",
+        "notes": "Created with students",
+        "purpose": "commemorative",
+        "subject": "indigenous",
         "tourism": "artwork",
+        "year": "1985",
         "@id": "node/12103731713",
         "@type": "node"
       }
@@ -8802,6 +8831,177 @@
         "artwork_type": "totem_pole",
         "tourism": "artwork",
         "@id": "node/13747280653",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7507161,
+          49.4785708
+        ]
+      },
+      "properties": {
+        "artist_name": "Bradley Hunt;Jamie Jeffries",
+        "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "Two community memorial poles overlooking playing fields.",
+        "ethnicity": "shíshálh",
+        "monumental_art_type": "memorial_pole",
+        "name": "Ted Dixon Park Totems",
+        "purpose": "memorial",
+        "subject": "indigenous",
+        "tourism": "artwork",
+        "@id": "node/13783979811",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7513268,
+          49.4821427
+        ]
+      },
+      "properties": {
+        "artist_name": "Ɂantuni Tony Paul",
+        "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "Memorial to Clarence Joe Sr.; eagle, orca, wolf, bear, frog motifs. Protection pole (territorial)",
+        "ethnicity": "shíshálh",
+        "monumental_art_type": "protection_pole",
+        "name": "Totem “The Spirit of Tita”",
+        "purpose": "ceremonial",
+        "subject": "indigenous",
+        "tourism": "artwork",
+        "@id": "node/13784005884",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7481324,
+          49.4741495
+        ]
+      },
+      "properties": {
+        "artist_name": "Ɂantuni Tony Paul;Matthew Baker;Richard Baker;Andrew Puglas Jr.;Patrick Hunt",
+        "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "5 totems; narrative_pole, welcome_pole, watchman_pole, 2 crest poles",
+        "ethnicity": "shíshálh",
+        "name": "Tsain-Ko Village Shopping Centre Totems",
+        "start_date": "2007",
+        "subject": "indigenous",
+        "tourism": "artwork",
+        "@id": "node/13784023689",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7480672,
+          49.4816424
+        ]
+      },
+      "properties": {
+        "artist_name": "Jamie Jeffries",
+        "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "Relocated Nation’s Hall totem pole by Jamie Jeffries; example of a Historic fallen totem returning to the earth; represents natural decay lifecycle. Salish Soils Demonstration Garden (preserved in situ)",
+        "ethinicity": "shíshálh",
+        "monumental_art_type": "historic_pole",
+        "name": "Totem at Salish Soils (Fallen)",
+        "purpose": "commemorative",
+        "start_date": "1986",
+        "subject": "indigenous",
+        "tourism": "artwork",
+        "@id": "node/13784028189",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.749812,
+          49.4734948
+        ]
+      },
+      "properties": {
+        "artist_name": "Jamie Jeffries",
+        "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "Pole honouring shíshálh Nation military veterans.",
+        "ethnicity": "shíshálh",
+        "monumental_art_type": "memorial_pole",
+        "name": "Totem at the Social Development Building",
+        "notes": "War veterans memorial",
+        "purpose": "memorial",
+        "start_date": "2012",
+        "subject": "indigenous",
+        "tourism": "artwork",
+        "@id": "node/13784033615",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7493756,
+          49.4757961
+        ]
+      },
+      "properties": {
+        "artist_name": "Ɂantuni Tony Paul;Deon Louie",
+        "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "Healing Pole by Ɂantuni Tony Paul Watchman, eagle, hummingbird (healer), human figure ;Welcome Pole by Ɂantuni Tony Paul  Central figure with open arms greeting visitors.; Crest Pole by Ɂantuni Tony Paul & Deon Louie  Eagle, wolf, raven, beaver designs.",
+        "ethnicity": "shíshálh",
+        "monumental_art_type": "healing_pole",
+        "name": "Sechelt Hospital Totems",
+        "purpose": "ceremonial",
+        "subject": "indigenous",
+        "tourism": "artwork",
+        "@id": "node/13784070877",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.7108324,
+          49.4531199
+        ]
+      },
+      "properties": {
+        "artist_name": "Ɂantuni Tony Paul",
+        "artwork_type": "totem_pole",
+        "culture": "coast_salish",
+        "description": "Grizzly bear, eagle, and frog representing watershed protection and civic unity. Civic / environmental protection pole.",
+        "ethnicity": "shíshálh",
+        "monumental_art_type": "protection_pole",
+        "name": "Totem at SCRD Office",
+        "purpose": "commemorative",
+        "start_date": "2009",
+        "subject": "indigenous",
+        "tourism": "artwork",
+        "@id": "node/13784072338",
         "@type": "node"
       }
     },
