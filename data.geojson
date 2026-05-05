@@ -2880,8 +2880,12 @@
       },
       "properties": {
         "access": "yes",
+        "artwork_type": "totem_pole",
         "historic": "monument",
         "name": "Survivor's Totem Pole",
+        "start_date": "2016",
+        "tourism": "artwork",
+        "website": "https://www.straight.com/blogra/724256/totem-pole-honouring-survivors-injustice-vancouver-be-raised-pigeon-park",
         "@id": "node/6858991956",
         "@type": "node"
       }
