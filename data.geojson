@@ -7740,7 +7740,9 @@
         ]
       },
       "properties": {
+        "artist_name": "Damian George;Jonas Jones",
         "artwork_type": "totem_pole",
+        "name": "Sí7la – Grandmother",
         "tourism": "artwork",
         "@id": "node/13237548619",
         "@type": "node"
@@ -9057,6 +9059,25 @@
         "material": "wood",
         "tourism": "artwork",
         "@id": "node/13800170587",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.8505584,
+          49.2813082
+        ]
+      },
+      "properties": {
+        "artist_name": "Zachary George",
+        "artwork_type": "totem_pole",
+        "fixme": "Replace with exact location once aerial imagery is available.",
+        "name": "Grandmother's Prayer",
+        "tourism": "artwork",
+        "@id": "node/13854426367",
         "@type": "node"
       }
     },
