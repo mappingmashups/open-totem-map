@@ -9104,6 +9104,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.1199212,
+          49.3305359
+        ]
+      },
+      "properties": {
+        "artist_name": "William Jeffery",
+        "artwork_type": "totem_pole",
+        "name": "Myth of the Bear People",
+        "tourism": "artwork",
+        "website": "https://archives.westvancouver.ca/link/publicart108",
+        "@id": "node/13913254045",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
