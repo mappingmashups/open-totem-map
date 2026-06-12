@@ -8018,9 +8018,9 @@
         ]
       },
       "properties": {
-        "artwork:subject": "bear",
+        "artwork_subject": "bear",
         "artwork_type": "totem_pole",
-        "inscription": "This Camas Garden is in memory of Polly Hanson\nA true librarian and dedicated friend of the Lummi Nation",
+        "inscription": "This Camas Garden is in memory of Polly Hanson A true librarian and dedicated friend of the Lummi Nation",
         "tourism": "artwork",
         "@id": "node/13324488107",
         "@type": "node"
@@ -9115,6 +9115,56 @@
         "tourism": "artwork",
         "website": "https://archives.westvancouver.ca/link/publicart108",
         "@id": "node/13913254045",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9693692,
+          40.0879881
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "tourism": "artwork",
+        "@id": "node/13928186543",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.967027,
+          40.091605
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "artwork_type": "totem_pole",
+        "tourism": "artwork",
+        "@id": "node/13928186569",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.970019,
+          40.0887335
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "artwork_type": "totem_pole",
+        "tourism": "artwork",
+        "@id": "node/13928209488",
         "@type": "node"
       }
     },
