@@ -9173,6 +9173,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.1412421,
+          49.163615
+        ]
+      },
+      "properties": {
+        "artist_name": "Victor H. Reese;Richmond Carvers Society",
+        "artwork_type": "totem_pole",
+        "name": "Soo Gee Ghet",
+        "start_date": "1994",
+        "tourism": "artwork",
+        "@id": "node/13932682112",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
