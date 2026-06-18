@@ -9208,6 +9208,46 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -1.2026388,
+          54.5381108
+        ]
+      },
+      "properties": {
+        "artist_name": "David Gross",
+        "artwork_type": "totem_pole",
+        "material": "wood",
+        "name": "Community Totem Pole",
+        "start_date": "2006",
+        "tourism": "artwork",
+        "@id": "node/13948851919",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.202597,
+          54.5381236
+        ]
+      },
+      "properties": {
+        "artist_name": "Richard Hunt;Tim Paul",
+        "artwork_type": "totem_pole",
+        "material": "wood",
+        "name": "Northwest Coast Canadian Totem Pole",
+        "start_date": "1979",
+        "tourism": "artwork",
+        "@id": "node/13948851920",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
