@@ -10831,6 +10831,39 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -2.0159192,
+          52.5898648
+        ]
+      },
+      "properties": {
+        "access": "private",
+        "artist:wikidata": "Q6702252",
+        "artist:wikipedia": "Luke Perry (artist)",
+        "artist_name": "Luke Perry",
+        "artwork_type": "installation",
+        "check_date": "2026-06-19",
+        "description": "Garden and trail reflecting Jane Lane’s flight as she aided the escape of Charles II in the 1640′s. Totem poles have terracotta plaques reflecting the town at the time; flags reflect each point in his journey across the country.",
+        "garden:type": "school",
+        "image": "https://web.archive.org/web/20150410013655im_/http://www.industrialheritagestronghold.com/wp-content/themes/catalyst/timthumb.php?src=http://www.industrialheritagestronghold.com/wp-content/uploads/2012/08/DSC_0605.jpg&h=125&w=125&zc=1&q=92",
+        "leisure": "garden",
+        "material": "terracotta",
+        "name": "The Jane Lane History & Sensory Garden",
+        "operator": "Jane Lane School",
+        "operator:type": "school",
+        "start_date": "2010",
+        "subject:wikidata": "Q15501138",
+        "subject:wikipedia": "en:Jane Lane, Lady Fisher",
+        "tourism": "artwork",
+        "website": "https://web.archive.org/web/20140121143416/http://www.industrialheritagestronghold.com/?page_id=252",
+        "@id": "way/1530932054",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           4.9757578,
           52.320436
         ]
