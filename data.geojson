@@ -9248,6 +9248,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          12.3991543,
+          50.5654372
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "tourism": "artwork",
+        "@id": "node/13955997993",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
