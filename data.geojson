@@ -9264,6 +9264,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.2822544,
+          47.2351475
+        ]
+      },
+      "properties": {
+        "artist_name": "Mike Morgan;Robert Fleischman;Diane Morgan",
+        "artwork_type": "sculpture",
+        "material": "wood",
+        "name": "Edgemont Totem Pole",
+        "tourism": "artwork",
+        "@id": "node/13966740000",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2822458,
+          47.2351578
+        ]
+      },
+      "properties": {
+        "board_type": "art",
+        "information": "board",
+        "name": "Edgemont Totem Pole",
+        "tourism": "information",
+        "@id": "node/13966750401",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
