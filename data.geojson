@@ -9301,6 +9301,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -76.3753832,
+          39.8632342
+        ]
+      },
+      "properties": {
+        "artwork_type": "installation",
+        "name": "Indian Steps Totem Pole",
+        "tourism": "artwork",
+        "@id": "node/13969270470",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
