@@ -9318,6 +9318,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -124.6745642,
+          48.8072786
+        ]
+      },
+      "properties": {
+        "description": "A gate made out of 2 totem poles",
+        "man_made": "ceremonial_gate",
+        "material": "wood",
+        "religion": "animist",
+        "@id": "node/13974927711",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
