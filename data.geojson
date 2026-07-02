@@ -971,7 +971,6 @@
       "properties": {
         "artist_name": "Duane Pasco",
         "artwork_type": "sculpture",
-        "date": "1971",
         "description": "Cedar totem pole of whale, nose down and figure at top holding tail.",
         "location": "Occidental Square",
         "measurements": "(H)12'",
@@ -979,6 +978,7 @@
         "name": "Killer Whale (Totem)",
         "project": "OCCIDENTAL PARK",
         "sac_id": "GCK75.057",
+        "start_date": "1971",
         "tourism": "artwork",
         "@id": "node/3211770101",
         "@type": "node"
@@ -1001,7 +1001,6 @@
         "addr:street": "Yesler Way",
         "artist_name": "Charles Brown",
         "artwork_type": "totem_pole",
-        "date": "1939-40",
         "description": "Replica of a Tlingit pole taken from a Tlingit village in Alaska in 1899.",
         "height": "50'",
         "location": "Pioneer Square Park",
@@ -1010,6 +1009,7 @@
         "name": "Seattle Totem Pole",
         "project": "PIONEER PLACE PARK",
         "sac_id": "GCK74.045",
+        "start_date": "1939..1940",
         "tourism": "artwork",
         "width": "4'6\"",
         "wikidata": "Q15288956",
