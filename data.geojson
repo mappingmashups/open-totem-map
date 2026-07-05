@@ -10280,6 +10280,7 @@
         "building": "yes",
         "building:levels": "2",
         "building:material": "concrete",
+        "height": "15",
         "name": "Totem Pole Loand",
         "source": "data.seattle.gov;https://web.seattle.gov/DPD/HistoricalSite/QueryResult.aspx?ID=-93051350",
         "start_date": "1908",
