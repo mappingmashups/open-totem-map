@@ -9337,6 +9337,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -88.1327544,
+          43.4767985
+        ]
+      },
+      "properties": {
+        "artwork_type": "sculpture",
+        "description": "Totem Pole",
+        "tourism": "artwork",
+        "@id": "node/13993592168",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
