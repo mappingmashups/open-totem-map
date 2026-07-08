@@ -6607,6 +6607,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.02905,
+          47.1632492
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "height": "7",
+        "material": "wood",
+        "start_date": "1963",
+        "tourism": "artwork",
+        "@id": "node/12669262875",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -46.533985,
           -23.4624085
         ]
@@ -10964,30 +10983,6 @@
         "website": "https://web.archive.org/web/20140121143416/http://www.industrialheritagestronghold.com/?page_id=252",
         "@id": "way/1530932054",
         "@type": "way"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.9757578,
-          52.320436
-        ]
-      },
-      "properties": {
-        "artist_name": "Jennifer Tee",
-        "artwork_type": "totem_pole",
-        "height": "4.50",
-        "man_made": "totem_pole",
-        "material": "marble",
-        "name": "Totem Today",
-        "start_date": "2009",
-        "tourism": "artwork",
-        "type": "multipolygon",
-        "website": "https://amsterdam.kunstwacht.nl/kunstwerken/bekijk/9527-totem-today",
-        "@id": "relation/20041517",
-        "@type": "relation"
       }
     }
   ]
