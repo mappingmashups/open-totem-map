@@ -9373,6 +9373,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.51017,
+          47.6227152
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "tourism": "artwork",
+        "@id": "node/14011101065",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5100306,
+          47.6223893
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "tourism": "artwork",
+        "@id": "node/14011101066",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
