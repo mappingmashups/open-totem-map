@@ -10625,6 +10625,7 @@
       "properties": {
         "leisure": "park",
         "name": "Totem Pole Park",
+        "opening_hours": "05:00-23:00",
         "wikidata": "Q49571342",
         "@id": "way/1213810233",
         "@type": "way"
