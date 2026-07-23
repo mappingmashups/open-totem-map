@@ -10186,6 +10186,7 @@
       "properties": {
         "leisure": "park",
         "name": "Totem Pole Park",
+        "website": "https://www.aberdeenwa.gov/Facilities/Facility/Details/Totem-Pole-Park-19",
         "@id": "way/155229140",
         "@type": "way"
       }
