@@ -9405,6 +9405,40 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.2983903,
+          47.3885612
+        ]
+      },
+      "properties": {
+        "check_date": "2026-07-25",
+        "name": "Totem Pole",
+        "tourism": "artwork",
+        "@id": "node/14049831701",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2994306,
+          47.3883002
+        ]
+      },
+      "properties": {
+        "check_date": "2026-07-25",
+        "name": "Totem Pole",
+        "tourism": "artwork",
+        "@id": "node/14049831707",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
