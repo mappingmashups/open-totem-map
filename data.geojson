@@ -8681,6 +8681,7 @@
       },
       "properties": {
         "artwork_type": "totem_pole",
+        "name": "Princess Tsawwassa House Post",
         "tourism": "artwork",
         "@id": "node/13653639507",
         "@type": "node"
