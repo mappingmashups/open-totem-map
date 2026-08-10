@@ -838,6 +838,7 @@
         "memorial": "totem_pole",
         "name": "Baranov Totem Pole",
         "tourism": "artwork",
+        "wikidata": "Q140235094",
         "@id": "node/3131527841",
         "@type": "node"
       }
