@@ -2991,14 +2991,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.150859,
+          -123.1508658,
           48.5865124
         ]
       },
       "properties": {
+        "artist:wikidata": "Q21005735",
+        "artist_name": "TEMOSEṈŦET (Dr. Charles W. Elliott)",
         "artwork_type": "totem_pole",
         "description": "Totem",
         "material": "wood",
+        "name": "Reef Net Captain pole",
         "tourism": "artwork",
         "@id": "node/7283493968",
         "@type": "node"
@@ -9450,6 +9453,62 @@
         "direction": "90",
         "tourism": "artwork",
         "@id": "node/14054163718",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5988564,
+          52.1502111
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "tourism": "artwork",
+        "@id": "node/14102574421",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1508851,
+          48.5865232
+        ]
+      },
+      "properties": {
+        "artist:wikidata": "Q111031936",
+        "artist_name": "SE SEALTH (Jewell Praying Wolf James)",
+        "artwork_type": "totem_pole",
+        "material": "wood",
+        "name": "Chief of the Salmon story boards",
+        "tourism": "artwork",
+        "@id": "node/14104349060",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1508459,
+          48.5864891
+        ]
+      },
+      "properties": {
+        "artist:wikidata": "Q111031936",
+        "artist_name": "SE SEALTH (Jewell Praying Wolf James)",
+        "artwork_type": "totem_pole",
+        "material": "wood",
+        "name": "Chief of the Salmon story boards",
+        "tourism": "artwork",
+        "@id": "node/14104349061",
         "@type": "node"
       }
     },
