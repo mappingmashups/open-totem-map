@@ -9517,6 +9517,56 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0673021,
+          49.3200943
+        ]
+      },
+      "properties": {
+        "artist:wikidata": "Q16215713",
+        "artist_name": "Sinàmkin - Jody Broomfield;Klatle-Bhi",
+        "artwork_type": "totem_pole",
+        "culture": "Sḵwx̱wú7mesh",
+        "direction": "180",
+        "indoor": "no",
+        "name": "Skwxwú7mesh Úxwumixw Welcome Figure",
+        "start_date": "2024",
+        "totem_pole": "welcome_figure",
+        "tourism": "artwork",
+        "website": "https://www.vch.ca/en/about-us/indigenous-health/indigenous-art-vancouver-coastal-health/indigenous-art-paul-myers-tower#swxw7mesh_xwumixw_welcome_figure",
+        "@id": "node/14120220588",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0672618,
+          49.3200954
+        ]
+      },
+      "properties": {
+        "artist_name": "TsuKawlton (Jonas Jones)",
+        "artwork_type": "totem_pole",
+        "culture": "Tsleil-Waututh",
+        "direction": "180",
+        "indoor": "no",
+        "name": "Tsleil-Waututh Welcome Figure: Wacaq II - Salmon Run",
+        "start_date": "2024",
+        "subject": "Wacaq",
+        "totem_pole": "welcome_figure",
+        "tourism": "artwork",
+        "website": "https://www.vch.ca/en/about-us/indigenous-health/indigenous-art-vancouver-coastal-health/indigenous-art-paul-myers-tower#tsleilwaututh_welcome_figure_wacaq_ii_salmon_run",
+        "@id": "node/14120220589",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
