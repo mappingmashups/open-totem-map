@@ -9632,13 +9632,15 @@
         "type": "Point",
         "coordinates": [
           -120.1568877,
-          47.8876081
+          47.8883691
         ]
       },
       "properties": {
         "highway": "tertiary",
         "lanes": "2",
+        "maxspeed": "25 mph",
         "name": "Totem Pole Road",
+        "oneway": "no",
         "sidewalk": "no",
         "surface": "asphalt",
         "tiger:cfcc": "A41",
@@ -11178,6 +11180,72 @@
         "tourism": "artwork",
         "website": "https://web.archive.org/web/20140121143416/http://www.industrialheritagestronghold.com/?page_id=252",
         "@id": "way/1530932054",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1572252,
+          47.8855322
+        ]
+      },
+      "properties": {
+        "highway": "tertiary",
+        "lanes": "2",
+        "maxspeed": "25 mph",
+        "name": "Totem Pole Road",
+        "oneway": "no",
+        "sidewalk:both": "yes",
+        "surface": "asphalt",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Chelan, WA",
+        "tiger:name_base": "Totem Pole",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "@id": "way/1553116345",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1566112,
+          47.8847459
+        ]
+      },
+      "properties": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "25 mph",
+        "name": "Totem Pole Road",
+        "oneway": "yes",
+        "surface": "paved",
+        "@id": "way/1553116346",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.1567843,
+          47.8847831
+        ]
+      },
+      "properties": {
+        "highway": "tertiary",
+        "lanes": "1",
+        "maxspeed": "25 mph",
+        "name": "Totem Pole Road",
+        "oneway": "yes",
+        "surface": "paved",
+        "@id": "way/1553116347",
         "@type": "way"
       }
     }
