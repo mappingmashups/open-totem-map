@@ -491,7 +491,9 @@
         "artist_name": "Cicero August",
         "artwork_type": "sculpture",
         "height": "7.5",
+        "material": "wood",
         "name": "Knowledge Totem Pole",
+        "start_date": "1994",
         "tourism": "artwork",
         "wikidata": "Q55137567",
         "wikipedia": "en:Knowledge Totem Pole",
@@ -4520,6 +4522,22 @@
         "name": "Totem Pole",
         "natural": "peak",
         "@id": "node/9536162851",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.1049901,
+          49.0235283
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "tourism": "artwork",
+        "@id": "node/9551492192",
         "@type": "node"
       }
     },
