@@ -9585,6 +9585,26 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.2982992,
+          48.8472224
+        ]
+      },
+      "properties": {
+        "artist_name": "John Aitken",
+        "artwork_type": "totem_pole",
+        "material": "wood",
+        "name": "Honouring Figure",
+        "start_date": "2009-06",
+        "tourism": "artwork",
+        "@id": "node/14184824174",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
