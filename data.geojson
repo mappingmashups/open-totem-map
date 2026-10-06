@@ -9568,6 +9568,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -118.3265152,
+          46.0711634
+        ]
+      },
+      "properties": {
+        "artist_name": "Jewell Praying Wolf James",
+        "artwork_type": "sculpture",
+        "material": "wood",
+        "name": "Totem Pole",
+        "tourism": "artwork",
+        "@id": "node/14253855730",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
