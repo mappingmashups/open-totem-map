@@ -1379,6 +1379,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -73.5292404,
+          45.5049349
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "name": "Totem Kwakiutl",
+        "tourism": "artwork",
+        "@id": "node/4320293898",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -123.1214777,
           49.2994107
         ]
