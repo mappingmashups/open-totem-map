@@ -9605,6 +9605,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -70.880017,
+          45.5762894
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "name": "Odjikanang",
+        "tourism": "artwork",
+        "@id": "node/14294909847",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
@@ -10664,6 +10681,7 @@
         "addr:postcode": "V8V 2P8",
         "addr:street": "Douglas Street",
         "description": "Outdoor collection of replica totem poles & historic buildings including a convent & carving studio.",
+        "fee": "no",
         "leisure": "park",
         "name": "Thunderbird Park",
         "operator": "Royal British Columbia Museum",
@@ -11285,6 +11303,27 @@
         "surface": "paved",
         "@id": "way/1553116347",
         "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2767148,
+          48.3267093
+        ]
+      },
+      "properties": {
+        "climbing": "crag",
+        "climbing:grade:yds_class:max": "5.12d",
+        "climbing:grade:yds_class:min": "5.12d",
+        "name": "Totem Pole Area",
+        "site": "climbing",
+        "sport": "climbing",
+        "type": "site",
+        "@id": "relation/21702143",
+        "@type": "relation"
       }
     }
   ]
