@@ -9622,6 +9622,28 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.122939,
+          49.3237432
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "culture": "Coast Salish",
+        "direction": "20",
+        "material": "cedar",
+        "painted": "no",
+        "surface": "unpainted",
+        "totem_pole": "welcome_figure",
+        "tourism": "artwork",
+        "@id": "node/14298238905",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
