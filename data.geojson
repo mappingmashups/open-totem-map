@@ -9644,6 +9644,42 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.2180434,
+          47.5804679
+        ]
+      },
+      "properties": {
+        "artwork_subject": "thunderbird;beaver",
+        "artwork_type": "totem_pole",
+        "direction": "200",
+        "painted": "yes",
+        "surface": "paint",
+        "tourism": "artwork",
+        "@id": "node/14306590940",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6300272,
+          42.580931
+        ]
+      },
+      "properties": {
+        "historic": "monument",
+        "name": "Camp Dearborn Totem Pole",
+        "@id": "node/14306648520",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
