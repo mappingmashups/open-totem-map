@@ -8512,8 +8512,15 @@
         ]
       },
       "properties": {
+        "artist_name": "George Swanaset Sr.",
+        "artwork_subject": "thunderbird;mountain goat",
         "artwork_type": "totem_pole",
+        "direction": "180",
+        "lit": "yes",
+        "material": "wood",
         "name": "Nooksack Totem Pole",
+        "start_date": "2014-11-19",
+        "surface": "painted",
         "tourism": "artwork",
         "@id": "node/13565796771",
         "@type": "node"
