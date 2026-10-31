@@ -1826,8 +1826,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -123.2488873,
-          49.260037
+          -123.2488909,
+          49.2600323
         ]
       },
       "properties": {
@@ -9679,6 +9679,42 @@
         "historic": "monument",
         "name": "Camp Dearborn Totem Pole",
         "@id": "node/14306648520",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.5466021,
+          41.1255081
+        ]
+      },
+      "properties": {
+        "artwork_type": "sculpture",
+        "name": "Totem Poles",
+        "tourism": "artwork",
+        "@id": "node/14334607653",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3288518,
+          47.403243
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "material": "wood",
+        "name": "słaaday' ʔə q'awils",
+        "name:en": "The Lady of Glistening White",
+        "tourism": "artwork",
+        "@id": "node/14335100413",
         "@type": "node"
       }
     },
