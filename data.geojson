@@ -9723,6 +9723,43 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0993031,
+          49.3215227
+        ]
+      },
+      "properties": {
+        "artist_name": "Norman Tait",
+        "artwork_type": "totem_pole",
+        "start_date": "1986-07-01",
+        "tourism": "artwork",
+        "@id": "node/14346486114",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0992897,
+          49.3214973
+        ]
+      },
+      "properties": {
+        "artist_name": "Norman Tait",
+        "artwork_type": "totem_pole",
+        "height": "30'",
+        "start_date": "1986-04-15",
+        "tourism": "artwork",
+        "@id": "node/14346486115",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
