@@ -9728,9 +9728,14 @@
         ]
       },
       "properties": {
-        "artist_name": "Norman Tait",
+        "artist:wikidata": "Q7052844",
         "artwork_type": "totem_pole",
+        "direction": "255",
+        "indoor": "yes",
+        "name": "\"Gahlgihl Masganihl Gat\" Children of the People",
+        "painted": "no",
         "start_date": "1986-07-01",
+        "surface": "unpainted",
         "tourism": "artwork",
         "@id": "node/14346486114",
         "@type": "node"
@@ -9746,10 +9751,16 @@
         ]
       },
       "properties": {
-        "artist_name": "Norman Tait",
+        "artist:wikidata": "Q7052844",
         "artwork_type": "totem_pole",
+        "direction": "300",
         "height": "30'",
+        "indoor": "yes",
+        "material": "wood",
+        "name": "\"Naawokw Kiikinskw\" Grizzly Bear Coming on to the Village",
+        "painted": "no",
         "start_date": "1986-04-15",
+        "surface": "unpainted",
         "tourism": "artwork",
         "@id": "node/14346486115",
         "@type": "node"
