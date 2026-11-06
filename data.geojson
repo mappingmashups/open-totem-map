@@ -9771,6 +9771,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.1103652,
+          49.321257
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "direction": "290",
+        "painted": "yes",
+        "surface": "painted",
+        "tourism": "artwork",
+        "@id": "node/14352823236",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
@@ -10862,6 +10881,36 @@
         "opening_hours": "Mo-Sa 10:00-17:00; Su 10:00-16:00",
         "shop": "gift",
         "@id": "way/582430457",
+        "@type": "way"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -127.6742105,
+          55.2501588
+        ]
+      },
+      "properties": {
+        "addr:housenumber": "1500",
+        "addr:street": "Highway 62",
+        "building": "no",
+        "check_date:opening_hours": "2023-10-13",
+        "description": "Museum and reconstructed Gitxsan village featuring traditional-style longhouses, totem poles and exhibits interpreting Gitxsan history, art and culture at the confluence of the Skeena and Bulkley rivers.",
+        "email": "ksan@gitanmaax.com",
+        "fee": "yes",
+        "museum": "history",
+        "museum_type": "open_air",
+        "name": "'Ksan Historical Village and Museum",
+        "opening_hours:url": "http://www.hazeltonstourism.ca/",
+        "operator": "Gitanmaax Band",
+        "phone": "+1-250-842-5544",
+        "seasonal": "yes",
+        "tourism": "museum",
+        "website": "https://ksan.org/",
+        "@id": "way/614899252",
         "@type": "way"
       }
     },
