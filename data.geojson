@@ -2350,8 +2350,9 @@
         ]
       },
       "properties": {
+        "historic": "monument",
+        "material": "wood",
         "name": "Kwakwaka'wakw Totem Pole",
-        "tourism": "attraction",
         "@id": "node/5991255085",
         "@type": "node"
       }
@@ -9782,6 +9783,24 @@
         "surface": "painted",
         "tourism": "artwork",
         "@id": "node/14352823236",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0726776,
+          49.3288543
+        ]
+      },
+      "properties": {
+        "artwork_type": "totem_pole",
+        "direction": "180",
+        "totem_pole": "welcome_figure",
+        "tourism": "artwork",
+        "@id": "node/14361309715",
         "@type": "node"
       }
     },
