@@ -9848,6 +9848,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -93.2839519,
+          44.9719411
+        ]
+      },
+      "properties": {
+        "artist_name": "Bill Baxley;Dennis Roghair",
+        "artwork_type": "sculpture",
+        "name": "Canine Totem Pole",
+        "start_date": "2007",
+        "tourism": "artwork",
+        "@id": "node/14384118102",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
