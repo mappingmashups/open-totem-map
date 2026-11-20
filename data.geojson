@@ -259,6 +259,7 @@
         "name": "Lummi 9/11 Healing Pole",
         "source": "survey",
         "tourism": "artwork",
+        "wikimedia_commons": "File:Lummi_Indian_Tribe's_Healing_Totem_Pole_(in_honor_of_the_victims_of_9.11.01_terrorist_attacks).jpg",
         "@id": "node/1819089463",
         "@type": "node"
       }
@@ -2350,9 +2351,11 @@
         ]
       },
       "properties": {
+        "artwork_type": "totem_pole",
         "historic": "monument",
         "material": "wood",
         "name": "Kwakwaka'wakw Totem Pole",
+        "tourism": "artwork",
         "@id": "node/5991255085",
         "@type": "node"
       }
@@ -9800,6 +9803,7 @@
       "properties": {
         "artwork_type": "totem_pole",
         "direction": "180",
+        "name": "Welcome Totem Pole",
         "totem_pole": "welcome_figure",
         "tourism": "artwork",
         "@id": "node/14361309715",
