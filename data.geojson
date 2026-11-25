@@ -9871,6 +9871,63 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -123.0971662,
+          49.281156
+        ]
+      },
+      "properties": {
+        "artist_name": "Brent Sparrow",
+        "artwork_type": "totem_pole",
+        "culture": "Xʷməθkʷəy̓ əm (Musqueam)",
+        "totem_pole": "house_post",
+        "tourism": "artwork",
+        "@id": "node/14407763279",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0971906,
+          49.2811568
+        ]
+      },
+      "properties": {
+        "artist_name": "Floyd Joseph",
+        "artwork_type": "totem_pole",
+        "culture": "Sḵwx̱wú7mesh Úxwumixw (Squamish Nation)",
+        "totem_pole": "house_post",
+        "tourism": "artwork",
+        "@id": "node/14407763281",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0972138,
+          49.2811571
+        ]
+      },
+      "properties": {
+        "artist_name": "Jonas Jones",
+        "artwork_type": "totem_pole",
+        "culture": "səl̓ílwətaɬ (Tsleil-Waututh)",
+        "totem_pole": "house_post",
+        "tourism": "artwork",
+        "@id": "node/14407763282",
+        "@type": "node"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -122.8184749,
           44.5641024
         ]
