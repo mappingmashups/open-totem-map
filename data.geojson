@@ -6604,6 +6604,7 @@
       "properties": {
         "historic": "monument",
         "monument": "totem_pole",
+        "name:signed": "no",
         "@id": "node/12550747097",
         "@type": "node"
       }
